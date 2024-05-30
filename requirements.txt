@@ -1,0 +1,16 @@
+############################  
+# Sentiment Analysis on Google Sheets with VADER using Python and Google Cloud Functions
+# NOTE: This is the requirements.txt used and deployed in Google Cloud Functions
+
+# VIEW THE POST ON MEDIUM: 
+# https://towardsdatascience.com/sentiment-analysis-on-google-sheets-with-vader-using-python-and-google-cloud-functions-e767985ed27d
+############################
+
+
+google-api-python-client
+google-cloud-secret-manager
+pandas
+numpy
+gspread
+gspread_dataframe
+nltk
